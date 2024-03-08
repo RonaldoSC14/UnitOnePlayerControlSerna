@@ -508,9 +508,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ea548f3f10f71b4ea1646d0c328248f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  xAngle: 0
-  yAngel: 0
-  zAngel: 0
+  player: {fileID: 825415029}
+  propellerSpeed: 123456790
 --- !u!1001 &347156382
 PrefabInstance:
   m_ObjectHideFlags: 0
